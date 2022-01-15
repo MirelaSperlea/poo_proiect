@@ -329,7 +329,7 @@ int main()
     fstream cfile;
     cfile.open("concurenti.txt",ios::in);
     int n=99;
-    for(int a=1; a<n; a++)
+    for(int a=1; a<=n; a++)
     {
         if(c[a].getnrC %2 ==0) //numarul de concurs e par
         {
@@ -341,7 +341,7 @@ int main()
         }
     }
 //afis
-    for(int a=1; a<n; a++)
+    for(int a=1; a<=n; a++)
     {
         cout<<c[a].getfistname()<<","<<c[a].getlastname()<<","<<c[a].getcity()<<","<<c[a].getdebt()<<endl;
 
@@ -350,7 +350,7 @@ int main()
 //Tug of War
 int nr_e=n/4;//nr concurenti pe echipa
 
-for(int q=1; q<nr_1; q++)
+for(int q=0; q<nr_e; q++)
 {
 
 }
