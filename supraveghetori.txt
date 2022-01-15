@@ -1,0 +1,9 @@
+Ionl,Florp,rar,78868,89,1,square
+Mar,Foca,antit,38096,77,2,square
+Maria,Dind,anti9,13348,73,3,square
+Eva,Popg,itali24,71317,80,4,triangle
+Alex,Vlutm,a1,80172,91,5,triangle
+Cris,Ursi,a14,81448,61,6,triangle
+Cris,Ursd,a19,52705,95,7,circle
+Eva,Popc,antivv,56319,83,8,circle
+Ioani,Floari,acb,24000,78,9,circle
